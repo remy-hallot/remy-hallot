@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rémy Hallot
 
-remy-hallot.github.io(https://remy-hallot.github.io/)
+[remy-hallot.github.io](https://remy-hallot.github.io/)
 
 <!--
 **remy-hallot/remy-hallot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
