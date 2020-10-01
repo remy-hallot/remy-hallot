@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Rémy Hallot
 
+[Linkedin](https://www.linkedin.com/in/remyhallot/?locale=en_US)
+
 [remy-hallot.github.io](https://remy-hallot.github.io/)
 
 <!--
